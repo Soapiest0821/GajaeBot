@@ -4,6 +4,6 @@
 
 
 # 봇 초대하기
-https://
+https://discord.com/api/oauth2/authorize?client_id=832845365225062422&permissions=134225920&scope=bot
 # 서포트 서버
-https://
+https://discord.gg/rjSH6BkcPN
